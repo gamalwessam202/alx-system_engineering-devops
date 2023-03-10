@@ -1,2 +1,2 @@
 #!/bin/bash
-chome betty hello
+chown betty hello
